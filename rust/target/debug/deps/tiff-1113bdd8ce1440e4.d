@@ -1,0 +1,14 @@
+/Users/hlx/github/rust_dart_plugins/dart_escpos_printer/rust/target/debug/deps/libtiff-1113bdd8ce1440e4.rmeta: /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/lib.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/bytecast.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/decoder/mod.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/decoder/ifd.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/decoder/stream.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/encoder/mod.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/encoder/colortype.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/encoder/writer.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/error.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/tags.rs
+
+/Users/hlx/github/rust_dart_plugins/dart_escpos_printer/rust/target/debug/deps/tiff-1113bdd8ce1440e4.d: /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/lib.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/bytecast.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/decoder/mod.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/decoder/ifd.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/decoder/stream.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/encoder/mod.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/encoder/colortype.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/encoder/writer.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/error.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/tags.rs
+
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/lib.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/bytecast.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/decoder/mod.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/decoder/ifd.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/decoder/stream.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/encoder/mod.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/encoder/colortype.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/encoder/writer.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/error.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/tiff-0.6.1/src/tags.rs:

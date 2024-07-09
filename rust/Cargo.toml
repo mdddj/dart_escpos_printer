@@ -1,0 +1,11 @@
+[package]
+name = "dart_escpos_printer"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "staticlib"]
+
+[dependencies]
+escpos-rust = "0.0.2"
+flutter_rust_bridge = "=2.1.0"

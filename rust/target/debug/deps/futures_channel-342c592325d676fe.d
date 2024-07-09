@@ -1,0 +1,10 @@
+/Users/hlx/github/rust_dart_plugins/dart_escpos_printer/rust/target/debug/deps/libfutures_channel-342c592325d676fe.rmeta: /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/lib.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/lock.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/mpsc/mod.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/mpsc/queue.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/mpsc/sink_impl.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/oneshot.rs
+
+/Users/hlx/github/rust_dart_plugins/dart_escpos_printer/rust/target/debug/deps/futures_channel-342c592325d676fe.d: /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/lib.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/lock.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/mpsc/mod.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/mpsc/queue.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/mpsc/sink_impl.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/oneshot.rs
+
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/lib.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/lock.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/mpsc/mod.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/mpsc/queue.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/mpsc/sink_impl.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-channel-0.3.30/src/oneshot.rs:

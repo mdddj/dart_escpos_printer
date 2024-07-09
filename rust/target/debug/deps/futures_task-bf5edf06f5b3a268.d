@@ -1,0 +1,11 @@
+/Users/hlx/github/rust_dart_plugins/dart_escpos_printer/rust/target/debug/deps/libfutures_task-bf5edf06f5b3a268.rmeta: /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/lib.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/spawn.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/arc_wake.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/waker.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/waker_ref.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/future_obj.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/noop_waker.rs
+
+/Users/hlx/github/rust_dart_plugins/dart_escpos_printer/rust/target/debug/deps/futures_task-bf5edf06f5b3a268.d: /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/lib.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/spawn.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/arc_wake.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/waker.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/waker_ref.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/future_obj.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/noop_waker.rs
+
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/lib.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/spawn.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/arc_wake.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/waker.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/waker_ref.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/future_obj.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/futures-task-0.3.30/src/noop_waker.rs:

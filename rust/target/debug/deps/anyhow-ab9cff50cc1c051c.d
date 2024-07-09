@@ -1,0 +1,15 @@
+/Users/hlx/github/rust_dart_plugins/dart_escpos_printer/rust/target/debug/deps/libanyhow-ab9cff50cc1c051c.rmeta: /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/lib.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/backtrace.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/chain.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/context.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/ensure.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/error.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/fmt.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/kind.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/macros.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/ptr.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/wrapper.rs
+
+/Users/hlx/github/rust_dart_plugins/dart_escpos_printer/rust/target/debug/deps/anyhow-ab9cff50cc1c051c.d: /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/lib.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/backtrace.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/chain.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/context.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/ensure.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/error.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/fmt.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/kind.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/macros.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/ptr.rs /Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/wrapper.rs
+
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/lib.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/backtrace.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/chain.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/context.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/ensure.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/error.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/fmt.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/kind.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/macros.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/ptr.rs:
+/Users/ldd/.cargo/registry/src/rsproxy.cn-0dccff568467c15b/anyhow-1.0.86/src/wrapper.rs:
