@@ -145,7 +145,7 @@ fn wire__crate__api__printer__printer_raw_data_impl(
             let api_raw_data = <Vec<u8>>::sse_decode(&mut deserializer);
             deserializer.end();
             move |context| {
-                transform_result_sse::<_, ()>((move || {
+                transform_result_sse::<_, String>((move || {
                     let mut api_printer_guard = None;
                     let decode_indices_ =
                         flutter_rust_bridge::for_generated::lockable_compute_decode_order(vec![
@@ -162,10 +162,8 @@ fn wire__crate__api__printer__printer_raw_data_impl(
                         }
                     }
                     let api_printer_guard = api_printer_guard.unwrap();
-                    let output_ok = Result::<_, ()>::Ok(crate::api::printer::printer_raw_data(
-                        &*api_printer_guard,
-                        api_raw_data,
-                    ))?;
+                    let output_ok =
+                        crate::api::printer::printer_raw_data(&*api_printer_guard, api_raw_data)?;
                     Ok(output_ok)
                 })())
             }
@@ -200,7 +198,7 @@ fn wire__crate__api__printer__printer_simple_text_impl(
             let api_text = <String>::sse_decode(&mut deserializer);
             deserializer.end();
             move |context| {
-                transform_result_sse::<_, ()>((move || {
+                transform_result_sse::<_, String>((move || {
                     let mut api_printer_guard = None;
                     let decode_indices_ =
                         flutter_rust_bridge::for_generated::lockable_compute_decode_order(vec![
@@ -217,10 +215,8 @@ fn wire__crate__api__printer__printer_simple_text_impl(
                         }
                     }
                     let api_printer_guard = api_printer_guard.unwrap();
-                    let output_ok = Result::<_, ()>::Ok(crate::api::printer::printer_simple_text(
-                        &*api_printer_guard,
-                        api_text,
-                    ))?;
+                    let output_ok =
+                        crate::api::printer::printer_simple_text(&*api_printer_guard, api_text)?;
                     Ok(output_ok)
                 })())
             }
@@ -259,13 +255,6 @@ impl SseDecode for String {
     fn sse_decode(deserializer: &mut flutter_rust_bridge::for_generated::SseDeserializer) -> Self {
         let mut inner = <Vec<u8>>::sse_decode(deserializer);
         return String::from_utf8(inner).unwrap();
-    }
-}
-
-impl SseDecode for bool {
-    // Codec=Sse (Serialization based), see doc to use other codecs
-    fn sse_decode(deserializer: &mut flutter_rust_bridge::for_generated::SseDeserializer) -> Self {
-        deserializer.cursor.read_u8().unwrap() != 0
     }
 }
 
@@ -311,6 +300,13 @@ impl SseDecode for i32 {
     // Codec=Sse (Serialization based), see doc to use other codecs
     fn sse_decode(deserializer: &mut flutter_rust_bridge::for_generated::SseDeserializer) -> Self {
         deserializer.cursor.read_i32::<NativeEndian>().unwrap()
+    }
+}
+
+impl SseDecode for bool {
+    // Codec=Sse (Serialization based), see doc to use other codecs
+    fn sse_decode(deserializer: &mut flutter_rust_bridge::for_generated::SseDeserializer) -> Self {
+        deserializer.cursor.read_u8().unwrap() != 0
     }
 }
 
@@ -383,13 +379,6 @@ impl SseEncode for String {
     }
 }
 
-impl SseEncode for bool {
-    // Codec=Sse (Serialization based), see doc to use other codecs
-    fn sse_encode(self, serializer: &mut flutter_rust_bridge::for_generated::SseSerializer) {
-        serializer.cursor.write_u8(self as _).unwrap();
-    }
-}
-
 impl SseEncode for Vec<u8> {
     // Codec=Sse (Serialization based), see doc to use other codecs
     fn sse_encode(self, serializer: &mut flutter_rust_bridge::for_generated::SseSerializer) {
@@ -433,6 +422,13 @@ impl SseEncode for i32 {
     // Codec=Sse (Serialization based), see doc to use other codecs
     fn sse_encode(self, serializer: &mut flutter_rust_bridge::for_generated::SseSerializer) {
         serializer.cursor.write_i32::<NativeEndian>(self).unwrap();
+    }
+}
+
+impl SseEncode for bool {
+    // Codec=Sse (Serialization based), see doc to use other codecs
+    fn sse_encode(self, serializer: &mut flutter_rust_bridge::for_generated::SseSerializer) {
+        serializer.cursor.write_u8(self as _).unwrap();
     }
 }
 

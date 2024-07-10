@@ -13,19 +13,19 @@ pub fn connect_to_printer(vendor_id: u16, product_id: u16) -> Result<Printer, St
 }
 
 ///打印简单的文本
-pub fn printer_simple_text(printer: &Printer, text: String) -> bool {
+pub fn printer_simple_text(printer: &Printer, text: String) -> Result<(), String> {
     let is_ok = printer.println(text);
     match is_ok {
-        Ok(_) => true,
-        Err(_) => false,
+        Ok(_) => Ok(()),
+        Err(e) => Err(e.to_string()),
     }
 }
 
 ///打印原始数据
-pub fn printer_raw_data(printer: &Printer, raw_data: Vec<u8>) -> bool {
+pub fn printer_raw_data(printer: &Printer, raw_data: Vec<u8>) -> Result<(), String> {
     let r = printer.raw(raw_data);
     match r {
-        Ok(_) => true,
-        Err(_) => false,
+        Ok(_) => Ok(()),
+        Err(e) => Err(e.to_string()),
     }
 }

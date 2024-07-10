@@ -13,13 +13,13 @@ Future<Printer> connectToPrinter(
         vendorId: vendorId, productId: productId);
 
 ///打印简单的文本
-Future<bool> printerSimpleText(
+Future<void> printerSimpleText(
         {required Printer printer, required String text}) =>
     RustLib.instance.api
         .crateApiPrinterPrinterSimpleText(printer: printer, text: text);
 
 ///打印原始数据
-Future<bool> printerRawData(
+Future<void> printerRawData(
         {required Printer printer, required List<int> rawData}) =>
     RustLib.instance.api
         .crateApiPrinterPrinterRawData(printer: printer, rawData: rawData);
